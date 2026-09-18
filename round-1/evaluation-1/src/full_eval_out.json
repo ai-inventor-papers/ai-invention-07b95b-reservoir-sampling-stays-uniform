@@ -1,0 +1,613 @@
+{
+  "metrics_agg": {
+    "max_abs_deviation": 0.2,
+    "mean_abs_deviation": 0.2
+  },
+  "datasets": [
+    {
+      "dataset": "synthetic",
+      "examples": [
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        },
+        {
+          "input": "x",
+          "output": "[0]",
+          "metadata_fold": 0,
+          "metadata_n": 10,
+          "metadata_k": 3,
+          "predict_sampler": "0",
+          "eval_max_abs_deviation": 0.2,
+          "eval_mean_abs_deviation": 0.2
+        }
+      ]
+    }
+  ]
+}
