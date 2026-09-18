@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "method_name": "reservoir_sampling_uniformity_test",
+    "description": "Empirical uniformity test of reservoir sampling algorithms",
+    "parameters": {
+      "N_values": [
+        50,
+        100,
+        200,
+        500,
+        1000,
+        2000,
+        5000,
+        10000
+      ],
+      "k_values": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        10
+      ],
+      "num_trials": 10000,
+      "seed_base": 42
+    }
+  },
+  "datasets": [
+    {
+      "dataset": "synthetic_stream_positions",
+      "examples": [
+        {
+          "input": "N=50, k=1, trials=10000, sampler=correct",
+          "output": "{\"max_abs_deviation\": 0.0036999999999999984, \"mean_abs_deviation\": 0.001232, \"positional_correlation\": 0.0976463717993157, \"chi_square\": 0.005648, \"expected_rate\": 0.02, \"N\": 50, \"k\": 1, \"sampler\": \"correct\", \"num_trials\": 10000}",
+          "metadata_condition": "N_50_k_1",
+          "metadata_sampler": "correct",
+          "metadata_N": 50,
+          "metadata_k": 1,
+          "predict_correct_sampler": "{\"max_abs_deviation\": 0.0036999999999999984, \"mean_abs_deviation\": 0.001232, \"positional_correlation\": 0.0976463717993157, \"chi_square\": 0.005648}",
+          "predict_replacement_bug_sampler": "{\"max_abs_deviation\": 0.0192, \"mean_abs_deviation\": 0.001356, \"positional_correlation\": -0.21555012907192275, \"chi_square\": 0.022713999999999998}",
+          "predict_index_bug_sampler": "{\"max_abs_deviation\": 0.48009999999999997, \"mean_abs_deviation\": 0.034712, \"positional_correlation\": 0.41045596818241514, \"chi_square\": 15.747565999999997}"
+        },
+        {
+          "input": "N=50, k=1, trials=10000, sampler=replacement_bug",
+          "output": "{\"max_abs_deviation\": 0.0192, \"mean_abs_deviation\": 0.001356, \"positional_correlation\": -0.21555012907192275, \"chi_square\": 0.022713999999999998, \"expected_rate\": 0.02, \"N\": 50, \"k\": 1, \"sampler\": \"replacement_bug\", \"num_trials\": 10000}",
+          "metadata_condition": "N_50_k_1",
+          "metadata_sampler": "replacement_bug",
+          "metadata_N": 50,
+          "metadata_k": 1,
+          "predict_correct_sampler": "{\"max_abs_deviation\": 0.0036999999999999984, \"mean_abs_deviation\": 0.001232, \"positional_correlation\": 0.0976463717993157, \"chi_square\": 0.005648}",
+          "predict_replacement_bug_sampler": "{\"max_abs_deviation\": 0.0192, \"mean_abs_deviation\": 0.001356, \"positional_correlation\": -0.21555012907192275, \"chi_square\": 0.022713999999999998}",
+          "predict_index_bug_sampler": "{\"max_abs_deviation\": 0.48009999999999997, \"mean_abs_deviation\": 0.034712, \"positional_correlation\": 0.41045596818241514, \"chi_square\": 15.747565999999997}"
+        },
+        {
+          "input": "N=50, k=1, trials=10000, sampler=index_bug",
+          "output": "{\"max_abs_deviation\": 0.48009999999999997, \"mean_abs_deviation\": 0.034712, \"positional_correlation\": 0.41045596818241514, \"chi_square\": 15.747565999999997, \"expected_rate\": 0.02, \"N\": 50, \"k\": 1, \"sampler\": \"index_bug\", \"num_trials\": 10000}",
+          "metadata_condition": "N_50_k_1",
+          "metadata_sampler": "index_bug",
+          "metadata_N": 50,
+          "metadata_k": 1,
+          "predict_correct_sampler": "{\"max_abs_deviation\": 0.0036999999999999984, \"mean_abs_deviation\": 0.001232, \"positional_correlation\": 0.0976463717993157, \"chi_square\": 0.005648}",
+          "predict_replacement_bug_sampler": "{\"max_abs_deviation\": 0.0192, \"mean_abs_deviation\": 0.001356, \"positional_correlation\": -0.21555012907192275, \"chi_square\": 0.022713999999999998}",
+          "predict_index_bug_sampler": "{\"max_abs_deviation\": 0.48009999999999997, \"mean_abs_deviation\": 0.034712, \"positional_correlation\": 0.41045596818241514, \"chi_square\": 15.747565999999997}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: reservoir-sampling-experiment
+Version: 0.1.0
+Summary: Empirical uniformity test of reservoir sampling algorithms
+Requires-Python: >=3.12
+Requires-Dist: attrs==26.1.0
+Requires-Dist: jsonschema==4.26.0
+Requires-Dist: jsonschema-specifications==2025.9.1
+Requires-Dist: loguru==0.7.3
+Requires-Dist: referencing==0.37.0
+Requires-Dist: rpds-py==2026.6.3
+Requires-Dist: typing-extensions==4.16.0
