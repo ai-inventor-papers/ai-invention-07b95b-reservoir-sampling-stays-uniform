@@ -1,0 +1,51 @@
+{
+  "task": "reservoir_sampling_stream_sampler",
+  "kept_datasets": [
+    {
+      "dataset_id": "fancyzhx/ag_news",
+      "config": "default",
+      "split": "train",
+      "downloaded_path": "temp/datasets/ag_news_train.parquet",
+      "preview_path": "temp/datasets/ag_news_train.json",
+      "rows": 120000,
+      "size_bytes": 18500000,
+      "columns": ["text", "label"],
+      "reason_kept": "well-documented, high-download benchmark with clear labels and compact size"
+    },
+    {
+      "dataset_id": "nyu-mll/glue",
+      "config": "sst2",
+      "split": "train",
+      "downloaded_path": "temp/datasets/glue_sst2_train.parquet",
+      "preview_path": "temp/datasets/glue_sst2_train.json",
+      "rows": 67349,
+      "size_bytes": 2900000,
+      "columns": ["sentence", "label", "idx"],
+      "reason_kept": "canonical benchmark subset with transparent structure and strong provenance"
+    }
+  ],
+  "discarded_candidates": [
+    {
+      "dataset_id": "stanfordnlp/imdb",
+      "reason_discarded": "download/deserialize failure during preview save in this environment"
+    },
+    {
+      "dataset_id": "rajpurkar/squad",
+      "reason_discarded": "good benchmark but less aligned with compact stream-label sanity checks than classification corpora"
+    },
+    {
+      "dataset_id": "li2017dailydialog/daily_dialog",
+      "reason_discarded": "good benchmark but dialogue structure is less suitable for the planned compact stream sampler check"
+    }
+  ],
+  "benchmark": {
+    "script": "scripts/reservoir_sampling_experiment.py",
+    "benchmark_path": "results/reservoir_benchmark.json",
+    "report_path": "results/reservoir_sampling_report.json",
+    "settings": 12,
+    "benchmark_trials_per_setting": 50,
+    "eval_trials_per_setting": 10000,
+    "overall_max_abs_deviation": 0.015100000000000002,
+    "elapsed_seconds": 8.226816933602095
+  }
+}

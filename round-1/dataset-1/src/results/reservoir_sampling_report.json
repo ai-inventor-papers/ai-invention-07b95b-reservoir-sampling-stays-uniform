@@ -1,0 +1,5568 @@
+{
+  "num_trials_per_setting": 10000,
+  "base_seed": 20260918,
+  "elapsed_seconds": 8.226816933602095,
+  "overall_max_abs_deviation": 0.015100000000000002,
+  "settings": [
+    {
+      "stream_id": "N032_K001",
+      "N": 32,
+      "k": 1,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.03125,
+      "max_abs_deviation": 0.00435,
+      "mean_abs_deviation": 0.001771875,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.0323,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0010500000000000023
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.03,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0012500000000000011
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.0355,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.004249999999999997
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.0287,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.00255
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.033,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0017500000000000016
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.0292,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0020499999999999997
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.0324,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0011499999999999982
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.0314,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.00014999999999999736
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.0321,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0008499999999999966
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.0313,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 5.000000000000143e-05
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.0292,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0020499999999999997
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.0322,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0009499999999999995
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.0297,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0015499999999999993
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.0289,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0023500000000000014
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.0307,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0005499999999999984
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.0289,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0023500000000000014
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.0308,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.000449999999999999
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.0285,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.002749999999999999
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.0296,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0016499999999999987
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.034,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0027500000000000024
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.0318,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0005500000000000019
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.0356,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.00435
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.0297,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0015499999999999993
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.0339,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0026499999999999996
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.0331,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0018499999999999975
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.0312,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 5.000000000000143e-05
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.0333,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.002050000000000003
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.0313,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 5.000000000000143e-05
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.0279,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.003349999999999999
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.0337,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.002450000000000001
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.0274,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.0038499999999999993
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.0327,
+          "expected_frequency": 0.03125,
+          "absolute_deviation": 0.00145
+        }
+      ]
+    },
+    {
+      "stream_id": "N032_K008",
+      "N": 32,
+      "k": 8,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.25,
+      "max_abs_deviation": 0.012199999999999989,
+      "mean_abs_deviation": 0.0034750000000000007,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.2411,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.008899999999999991
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.248,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.254,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0040000000000000036
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.2543,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004300000000000026
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.2471,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0029000000000000137
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.2467,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0032999999999999974
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.2528,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0028000000000000247
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.2519,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0019000000000000128
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.2492,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0007999999999999952
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.2503,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00030000000000002247
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.2448,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00520000000000001
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.2542,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0041999999999999815
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.2505,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0005000000000000004
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.2567,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006699999999999984
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.247,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0030000000000000027
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.2486,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0014000000000000123
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.2457,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004299999999999998
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.2507,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0006999999999999784
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.2486,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0014000000000000123
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.2463,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003700000000000009
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.2515,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015000000000000013
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.2475,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0025000000000000022
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.2568,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006799999999999973
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.2521,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0020999999999999908
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.2509,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0009000000000000119
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.2378,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.012199999999999989
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.2542,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0041999999999999815
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.2534,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003400000000000014
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.2562,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006199999999999983
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.2487,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0012999999999999956
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.2551,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005099999999999993
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.2473,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.002700000000000008
+        }
+      ]
+    },
+    {
+      "stream_id": "N032_K016",
+      "N": 32,
+      "k": 16,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.5,
+      "max_abs_deviation": 0.01429999999999998,
+      "mean_abs_deviation": 0.004562499999999997,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.4912,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.008799999999999975
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.5002,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.5023,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0022999999999999687
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.4995,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0005000000000000004
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.492,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.008000000000000007
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.497,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0030000000000000027
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.5035,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0034999999999999476
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.499,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0010000000000000009
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.4935,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006500000000000006
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.4991,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0009000000000000119
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.4976,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0024000000000000132
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.4998,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.507,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007000000000000006
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.5086,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.008600000000000052
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.4857,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.01429999999999998
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.5058,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005800000000000027
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.4983,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016999999999999793
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.502,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.5056,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005600000000000049
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.4949,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005099999999999993
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.4991,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0009000000000000119
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.4982,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0018000000000000238
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.5061,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006099999999999994
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.4959,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0040999999999999925
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.5052,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005199999999999982
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.4929,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007099999999999995
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.5061,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006099999999999994
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.5048,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0048000000000000265
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.5059,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005900000000000016
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.4933,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006699999999999984
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.5054,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00539999999999996
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.5045,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0044999999999999485
+        }
+      ]
+    },
+    {
+      "stream_id": "N032_K031",
+      "N": 32,
+      "k": 31,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.96875,
+      "max_abs_deviation": 0.004650000000000043,
+      "mean_abs_deviation": 0.001440624999999994,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.9661,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.002650000000000041
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.9679,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0008500000000000174
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.9692,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.00044999999999995044
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.9672,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0015500000000000513
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.9734,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.004650000000000043
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.9684,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.00034999999999996145
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.9685,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.00024999999999997247
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.9686,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.00014999999999998348
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.9701,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0013499999999999623
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.9684,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.00034999999999996145
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.9701,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0013499999999999623
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.9668,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0019500000000000073
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.9663,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.002449999999999952
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.9678,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0009500000000000064
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.968,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0007500000000000284
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.9677,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0010499999999999954
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.97,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0012499999999999734
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.9682,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0005500000000000504
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.9684,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.00034999999999996145
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.9721,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.003349999999999964
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.9701,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0013499999999999623
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.9678,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0009500000000000064
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.9701,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0013499999999999623
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.9699,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0011499999999999844
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.9707,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0019500000000000073
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.966,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.00275000000000003
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.9718,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.003049999999999997
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.9704,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0016500000000000403
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.9679,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0008500000000000174
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.9667,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0020499999999999963
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.9689,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.00014999999999998348
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.9665,
+          "expected_frequency": 0.96875,
+          "absolute_deviation": 0.0022499999999999742
+        }
+      ]
+    },
+    {
+      "stream_id": "N064_K001",
+      "N": 64,
+      "k": 1,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.015625,
+      "max_abs_deviation": 0.0030750000000000013,
+      "mean_abs_deviation": 0.0010203125000000004,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.016,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00037500000000000033
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.0175,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0018750000000000017
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.0139,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0017250000000000008
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.017,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0013750000000000012
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.0158,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00017500000000000154
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.0152,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00042500000000000003
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.0164,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0007750000000000014
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.0143,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0013249999999999998
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.0158,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00017500000000000154
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.0147,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0009250000000000005
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.0146,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0010249999999999999
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.0164,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0007750000000000014
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.0179,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0022749999999999992
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.016,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00037500000000000033
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.0162,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0005749999999999991
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.0172,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.001575
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.016,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00037500000000000033
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.0157,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 7.499999999999868e-05
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.017,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0013750000000000012
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.0158,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00017500000000000154
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.0148,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0008249999999999993
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.0151,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0005249999999999994
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.0157,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 7.499999999999868e-05
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.0146,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0010249999999999999
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.0158,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00017500000000000154
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.0162,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0005749999999999991
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.0185,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.002874999999999999
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.0154,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0002249999999999995
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.0152,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00042500000000000003
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.017,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0013750000000000012
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.0173,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0016749999999999994
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.013,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0026250000000000006
+        },
+        {
+          "position_index": 33,
+          "empirical_frequency": 0.0147,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0009250000000000005
+        },
+        {
+          "position_index": 34,
+          "empirical_frequency": 0.0165,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0008750000000000008
+        },
+        {
+          "position_index": 35,
+          "empirical_frequency": 0.0167,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0010749999999999996
+        },
+        {
+          "position_index": 36,
+          "empirical_frequency": 0.0181,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0024750000000000015
+        },
+        {
+          "position_index": 37,
+          "empirical_frequency": 0.0144,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0012250000000000004
+        },
+        {
+          "position_index": 38,
+          "empirical_frequency": 0.0154,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0002249999999999995
+        },
+        {
+          "position_index": 39,
+          "empirical_frequency": 0.0153,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00032500000000000064
+        },
+        {
+          "position_index": 40,
+          "empirical_frequency": 0.0137,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0019249999999999996
+        },
+        {
+          "position_index": 41,
+          "empirical_frequency": 0.0138,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0018250000000000002
+        },
+        {
+          "position_index": 42,
+          "empirical_frequency": 0.0185,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.002874999999999999
+        },
+        {
+          "position_index": 43,
+          "empirical_frequency": 0.0149,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.000725
+        },
+        {
+          "position_index": 44,
+          "empirical_frequency": 0.0141,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0015250000000000003
+        },
+        {
+          "position_index": 45,
+          "empirical_frequency": 0.0187,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0030750000000000013
+        },
+        {
+          "position_index": 46,
+          "empirical_frequency": 0.0152,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.00042500000000000003
+        },
+        {
+          "position_index": 47,
+          "empirical_frequency": 0.015,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0006250000000000006
+        },
+        {
+          "position_index": 48,
+          "empirical_frequency": 0.0171,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0014750000000000006
+        },
+        {
+          "position_index": 49,
+          "empirical_frequency": 0.0165,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0008750000000000008
+        },
+        {
+          "position_index": 50,
+          "empirical_frequency": 0.0156,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 2.5000000000000716e-05
+        },
+        {
+          "position_index": 51,
+          "empirical_frequency": 0.0154,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0002249999999999995
+        },
+        {
+          "position_index": 52,
+          "empirical_frequency": 0.014,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0016249999999999997
+        },
+        {
+          "position_index": 53,
+          "empirical_frequency": 0.0157,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 7.499999999999868e-05
+        },
+        {
+          "position_index": 54,
+          "empirical_frequency": 0.0154,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0002249999999999995
+        },
+        {
+          "position_index": 55,
+          "empirical_frequency": 0.013,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0026250000000000006
+        },
+        {
+          "position_index": 56,
+          "empirical_frequency": 0.0164,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0007750000000000014
+        },
+        {
+          "position_index": 57,
+          "empirical_frequency": 0.0142,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0014249999999999992
+        },
+        {
+          "position_index": 58,
+          "empirical_frequency": 0.0156,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 2.5000000000000716e-05
+        },
+        {
+          "position_index": 59,
+          "empirical_frequency": 0.0145,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0011249999999999993
+        },
+        {
+          "position_index": 60,
+          "empirical_frequency": 0.0147,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0009250000000000005
+        },
+        {
+          "position_index": 61,
+          "empirical_frequency": 0.0141,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0015250000000000003
+        },
+        {
+          "position_index": 62,
+          "empirical_frequency": 0.0137,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0019249999999999996
+        },
+        {
+          "position_index": 63,
+          "empirical_frequency": 0.0155,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 0.0001250000000000001
+        },
+        {
+          "position_index": 64,
+          "empirical_frequency": 0.0156,
+          "expected_frequency": 0.015625,
+          "absolute_deviation": 2.5000000000000716e-05
+        }
+      ]
+    },
+    {
+      "stream_id": "N064_K016",
+      "N": 64,
+      "k": 16,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.25,
+      "max_abs_deviation": 0.01200000000000001,
+      "mean_abs_deviation": 0.0033593750000000012,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.2445,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005500000000000005
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.2518,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0018000000000000238
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.2485,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015000000000000013
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.2529,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0029000000000000137
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.2511,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0010999999999999899
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.262,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.01200000000000001
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.2538,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0038000000000000256
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.2477,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0022999999999999965
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.2492,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0007999999999999952
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.2465,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003500000000000003
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.2481,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0019000000000000128
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.245,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0050000000000000044
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.2556,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005599999999999994
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.2516,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015999999999999903
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.2526,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.002599999999999991
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.2527,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00269999999999998
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.2448,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00520000000000001
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.2524,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0024000000000000132
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.2501,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.2506,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0005999999999999894
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.2431,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0068999999999999895
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.2458,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004200000000000009
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.2553,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005300000000000027
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.2473,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.002700000000000008
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.2544,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004400000000000015
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.2475,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0025000000000000022
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.2563,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006299999999999972
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.2467,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0032999999999999974
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.2541,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0040999999999999925
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.2509,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0009000000000000119
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.2462,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003799999999999998
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.2534,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003400000000000014
+        },
+        {
+          "position_index": 33,
+          "empirical_frequency": 0.2515,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015000000000000013
+        },
+        {
+          "position_index": 34,
+          "empirical_frequency": 0.2496,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00040000000000001146
+        },
+        {
+          "position_index": 35,
+          "empirical_frequency": 0.2498,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00020000000000000573
+        },
+        {
+          "position_index": 36,
+          "empirical_frequency": 0.2439,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006099999999999994
+        },
+        {
+          "position_index": 37,
+          "empirical_frequency": 0.2536,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003599999999999992
+        },
+        {
+          "position_index": 38,
+          "empirical_frequency": 0.2577,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.007699999999999985
+        },
+        {
+          "position_index": 39,
+          "empirical_frequency": 0.2477,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0022999999999999965
+        },
+        {
+          "position_index": 40,
+          "empirical_frequency": 0.2465,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003500000000000003
+        },
+        {
+          "position_index": 41,
+          "empirical_frequency": 0.2502,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 42,
+          "empirical_frequency": 0.2453,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00470000000000001
+        },
+        {
+          "position_index": 43,
+          "empirical_frequency": 0.2501,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 44,
+          "empirical_frequency": 0.2512,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0011999999999999789
+        },
+        {
+          "position_index": 45,
+          "empirical_frequency": 0.2435,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006500000000000006
+        },
+        {
+          "position_index": 46,
+          "empirical_frequency": 0.255,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0050000000000000044
+        },
+        {
+          "position_index": 47,
+          "empirical_frequency": 0.2486,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0014000000000000123
+        },
+        {
+          "position_index": 48,
+          "empirical_frequency": 0.2471,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0029000000000000137
+        },
+        {
+          "position_index": 49,
+          "empirical_frequency": 0.2485,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015000000000000013
+        },
+        {
+          "position_index": 50,
+          "empirical_frequency": 0.247,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0030000000000000027
+        },
+        {
+          "position_index": 51,
+          "empirical_frequency": 0.2484,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015999999999999903
+        },
+        {
+          "position_index": 52,
+          "empirical_frequency": 0.2427,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.007300000000000001
+        },
+        {
+          "position_index": 53,
+          "empirical_frequency": 0.2528,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0028000000000000247
+        },
+        {
+          "position_index": 54,
+          "empirical_frequency": 0.2438,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006200000000000011
+        },
+        {
+          "position_index": 55,
+          "empirical_frequency": 0.2514,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0014000000000000123
+        },
+        {
+          "position_index": 56,
+          "empirical_frequency": 0.2492,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0007999999999999952
+        },
+        {
+          "position_index": 57,
+          "empirical_frequency": 0.2504,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00040000000000001146
+        },
+        {
+          "position_index": 58,
+          "empirical_frequency": 0.256,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006000000000000005
+        },
+        {
+          "position_index": 59,
+          "empirical_frequency": 0.2611,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.011099999999999999
+        },
+        {
+          "position_index": 60,
+          "empirical_frequency": 0.2465,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003500000000000003
+        },
+        {
+          "position_index": 61,
+          "empirical_frequency": 0.2542,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0041999999999999815
+        },
+        {
+          "position_index": 62,
+          "empirical_frequency": 0.2507,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0006999999999999784
+        },
+        {
+          "position_index": 63,
+          "empirical_frequency": 0.2447,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005299999999999999
+        },
+        {
+          "position_index": 64,
+          "empirical_frequency": 0.2488,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0012000000000000066
+        }
+      ]
+    },
+    {
+      "stream_id": "N064_K032",
+      "N": 64,
+      "k": 32,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.5,
+      "max_abs_deviation": 0.010199999999999987,
+      "mean_abs_deviation": 0.0040531249999999994,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.491,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.009000000000000008
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.5012,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0011999999999999789
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.5061,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006099999999999994
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.5024,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0023999999999999577
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.4923,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007699999999999985
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.5099,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00990000000000002
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.5023,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0022999999999999687
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.5,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.5017,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0017000000000000348
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.499,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0010000000000000009
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.4973,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00269999999999998
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.4952,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0048000000000000265
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.5076,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007600000000000051
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.5044,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0043999999999999595
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.4969,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0030999999999999917
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.4935,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006500000000000006
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.5056,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005600000000000049
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.5064,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006399999999999961
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.5061,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006099999999999994
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.4969,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0030999999999999917
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.5031,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0030999999999999917
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.4901,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00990000000000002
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.5049,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0049000000000000155
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.4931,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006900000000000017
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.4987,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0013000000000000234
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.505,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0050000000000000044
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.5102,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.010199999999999987
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.5067,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006700000000000039
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.4997,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00030000000000002247
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.4989,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0010999999999999899
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.4983,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016999999999999793
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.496,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0040000000000000036
+        },
+        {
+          "position_index": 33,
+          "empirical_frequency": 0.4954,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.004599999999999993
+        },
+        {
+          "position_index": 34,
+          "empirical_frequency": 0.5027,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0027000000000000357
+        },
+        {
+          "position_index": 35,
+          "empirical_frequency": 0.4984,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0015999999999999903
+        },
+        {
+          "position_index": 36,
+          "empirical_frequency": 0.5042,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0041999999999999815
+        },
+        {
+          "position_index": 37,
+          "empirical_frequency": 0.4999,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 38,
+          "empirical_frequency": 0.5022,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0021999999999999797
+        },
+        {
+          "position_index": 39,
+          "empirical_frequency": 0.5025,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0024999999999999467
+        },
+        {
+          "position_index": 40,
+          "empirical_frequency": 0.5002,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 41,
+          "empirical_frequency": 0.5004,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00039999999999995595
+        },
+        {
+          "position_index": 42,
+          "empirical_frequency": 0.4998,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 43,
+          "empirical_frequency": 0.4997,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00030000000000002247
+        },
+        {
+          "position_index": 44,
+          "empirical_frequency": 0.4941,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005900000000000016
+        },
+        {
+          "position_index": 45,
+          "empirical_frequency": 0.4936,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006400000000000017
+        },
+        {
+          "position_index": 46,
+          "empirical_frequency": 0.5073,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007299999999999973
+        },
+        {
+          "position_index": 47,
+          "empirical_frequency": 0.5035,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0034999999999999476
+        },
+        {
+          "position_index": 48,
+          "empirical_frequency": 0.4915,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.008500000000000008
+        },
+        {
+          "position_index": 49,
+          "empirical_frequency": 0.496,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0040000000000000036
+        },
+        {
+          "position_index": 50,
+          "empirical_frequency": 0.5046,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0046000000000000485
+        },
+        {
+          "position_index": 51,
+          "empirical_frequency": 0.506,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006000000000000005
+        },
+        {
+          "position_index": 52,
+          "empirical_frequency": 0.5002,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 53,
+          "empirical_frequency": 0.4918,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.008199999999999985
+        },
+        {
+          "position_index": 54,
+          "empirical_frequency": 0.4978,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0021999999999999797
+        },
+        {
+          "position_index": 55,
+          "empirical_frequency": 0.5006,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0006000000000000449
+        },
+        {
+          "position_index": 56,
+          "empirical_frequency": 0.5052,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005199999999999982
+        },
+        {
+          "position_index": 57,
+          "empirical_frequency": 0.5019,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0019000000000000128
+        },
+        {
+          "position_index": 58,
+          "empirical_frequency": 0.5029,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0029000000000000137
+        },
+        {
+          "position_index": 59,
+          "empirical_frequency": 0.4942,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005800000000000027
+        },
+        {
+          "position_index": 60,
+          "empirical_frequency": 0.4958,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0041999999999999815
+        },
+        {
+          "position_index": 61,
+          "empirical_frequency": 0.4965,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.003500000000000003
+        },
+        {
+          "position_index": 62,
+          "empirical_frequency": 0.4983,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016999999999999793
+        },
+        {
+          "position_index": 63,
+          "empirical_frequency": 0.5017,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0017000000000000348
+        },
+        {
+          "position_index": 64,
+          "empirical_frequency": 0.4906,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00940000000000002
+        }
+      ]
+    },
+    {
+      "stream_id": "N064_K063",
+      "N": 64,
+      "k": 63,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.984375,
+      "max_abs_deviation": 0.002475000000000005,
+      "mean_abs_deviation": 0.000992187500000007,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.9858,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0014250000000000096
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.9849,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0005249999999999977
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.9819,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.002475000000000005
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.9849,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0005249999999999977
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.9853,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0009249999999999536
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.9845,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.00012500000000004174
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.9861,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0017249999999999766
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.9819,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.002475000000000005
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.9836,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0007749999999999702
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.9842,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.00017500000000003624
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.9854,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0010250000000000536
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.9865,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0021250000000000435
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.9845,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.00012500000000004174
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.9843,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 7.500000000004725e-05
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.9833,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0010750000000000481
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.9856,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0012250000000000316
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.9836,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0007749999999999702
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.9844,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 2.5000000000052758e-05
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.9844,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 2.5000000000052758e-05
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.983,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.001375000000000015
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.9853,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0009249999999999536
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.9837,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0006749999999999812
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.985,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0006249999999999867
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.9841,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0002750000000000252
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.9857,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0013250000000000206
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.9868,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0024250000000000105
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.9838,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0005749999999999922
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.9829,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.001475000000000004
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.9837,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0006749999999999812
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.9841,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0002750000000000252
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.9826,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.001774999999999971
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.9821,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.002275000000000027
+        },
+        {
+          "position_index": 33,
+          "empirical_frequency": 0.9856,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0012250000000000316
+        },
+        {
+          "position_index": 34,
+          "empirical_frequency": 0.9863,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0019249999999999545
+        },
+        {
+          "position_index": 35,
+          "empirical_frequency": 0.9829,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.001475000000000004
+        },
+        {
+          "position_index": 36,
+          "empirical_frequency": 0.9847,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0003250000000000197
+        },
+        {
+          "position_index": 37,
+          "empirical_frequency": 0.9845,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.00012500000000004174
+        },
+        {
+          "position_index": 38,
+          "empirical_frequency": 0.9828,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.001574999999999993
+        },
+        {
+          "position_index": 39,
+          "empirical_frequency": 0.9846,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.00022500000000003073
+        },
+        {
+          "position_index": 40,
+          "empirical_frequency": 0.9844,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 2.5000000000052758e-05
+        },
+        {
+          "position_index": 41,
+          "empirical_frequency": 0.9847,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0003250000000000197
+        },
+        {
+          "position_index": 42,
+          "empirical_frequency": 0.9831,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0012750000000000261
+        },
+        {
+          "position_index": 43,
+          "empirical_frequency": 0.9853,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0009249999999999536
+        },
+        {
+          "position_index": 44,
+          "empirical_frequency": 0.9832,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0011750000000000371
+        },
+        {
+          "position_index": 45,
+          "empirical_frequency": 0.9835,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0008749999999999591
+        },
+        {
+          "position_index": 46,
+          "empirical_frequency": 0.9856,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0012250000000000316
+        },
+        {
+          "position_index": 47,
+          "empirical_frequency": 0.9851,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0007249999999999757
+        },
+        {
+          "position_index": 48,
+          "empirical_frequency": 0.986,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0016249999999999876
+        },
+        {
+          "position_index": 49,
+          "empirical_frequency": 0.9834,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0009749999999999481
+        },
+        {
+          "position_index": 50,
+          "empirical_frequency": 0.9862,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0018249999999999655
+        },
+        {
+          "position_index": 51,
+          "empirical_frequency": 0.9858,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0014250000000000096
+        },
+        {
+          "position_index": 52,
+          "empirical_frequency": 0.9853,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0009249999999999536
+        },
+        {
+          "position_index": 53,
+          "empirical_frequency": 0.9859,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0015249999999999986
+        },
+        {
+          "position_index": 54,
+          "empirical_frequency": 0.9843,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 7.500000000004725e-05
+        },
+        {
+          "position_index": 55,
+          "empirical_frequency": 0.9845,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.00012500000000004174
+        },
+        {
+          "position_index": 56,
+          "empirical_frequency": 0.9831,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0012750000000000261
+        },
+        {
+          "position_index": 57,
+          "empirical_frequency": 0.9839,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0004750000000000032
+        },
+        {
+          "position_index": 58,
+          "empirical_frequency": 0.9831,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0012750000000000261
+        },
+        {
+          "position_index": 59,
+          "empirical_frequency": 0.9849,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0005249999999999977
+        },
+        {
+          "position_index": 60,
+          "empirical_frequency": 0.9824,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.001974999999999949
+        },
+        {
+          "position_index": 61,
+          "empirical_frequency": 0.9833,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0010750000000000481
+        },
+        {
+          "position_index": 62,
+          "empirical_frequency": 0.9837,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0006749999999999812
+        },
+        {
+          "position_index": 63,
+          "empirical_frequency": 0.986,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0016249999999999876
+        },
+        {
+          "position_index": 64,
+          "empirical_frequency": 0.984,
+          "expected_frequency": 0.984375,
+          "absolute_deviation": 0.0003750000000000142
+        }
+      ]
+    },
+    {
+      "stream_id": "N128_K001",
+      "N": 128,
+      "k": 1,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.0078125,
+      "max_abs_deviation": 0.0032875000000000005,
+      "mean_abs_deviation": 0.00072421875,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.0079,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 8.750000000000077e-05
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.0074,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00041249999999999967
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.0066,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0012125
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.009,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0011874999999999993
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.0067,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0011124999999999998
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.0091,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0012875000000000004
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.007,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0008124999999999999
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.0072,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006125000000000002
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.0078,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 1.2500000000000358e-05
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.0066,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0012125
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.0068,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0010125000000000004
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.0074,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00041249999999999967
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.0074,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00041249999999999967
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.0073,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005124999999999999
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.0086,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007875
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.007,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0008124999999999999
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.0084,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005874999999999995
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.0111,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0032875000000000005
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.0086,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007875
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.0075,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0003125000000000003
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.0083,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0004875000000000001
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.0075,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0003125000000000003
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.0078,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 1.2500000000000358e-05
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.006,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0018124999999999999
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.0063,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0015125
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.0077,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00011249999999999975
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.0065,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0013125000000000003
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.0074,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00041249999999999967
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.0078,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 1.2500000000000358e-05
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.0088,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0009875000000000005
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.007,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0008124999999999999
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.0086,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007875
+        },
+        {
+          "position_index": 33,
+          "empirical_frequency": 0.0078,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 1.2500000000000358e-05
+        },
+        {
+          "position_index": 34,
+          "empirical_frequency": 0.008,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00018750000000000017
+        },
+        {
+          "position_index": 35,
+          "empirical_frequency": 0.007,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0008124999999999999
+        },
+        {
+          "position_index": 36,
+          "empirical_frequency": 0.0076,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00021250000000000002
+        },
+        {
+          "position_index": 37,
+          "empirical_frequency": 0.0072,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006125000000000002
+        },
+        {
+          "position_index": 38,
+          "empirical_frequency": 0.0083,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0004875000000000001
+        },
+        {
+          "position_index": 39,
+          "empirical_frequency": 0.0084,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005874999999999995
+        },
+        {
+          "position_index": 40,
+          "empirical_frequency": 0.0079,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 8.750000000000077e-05
+        },
+        {
+          "position_index": 41,
+          "empirical_frequency": 0.0083,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0004875000000000001
+        },
+        {
+          "position_index": 42,
+          "empirical_frequency": 0.0078,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 1.2500000000000358e-05
+        },
+        {
+          "position_index": 43,
+          "empirical_frequency": 0.0072,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006125000000000002
+        },
+        {
+          "position_index": 44,
+          "empirical_frequency": 0.0091,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0012875000000000004
+        },
+        {
+          "position_index": 45,
+          "empirical_frequency": 0.0087,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0008874999999999994
+        },
+        {
+          "position_index": 46,
+          "empirical_frequency": 0.0096,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0017874999999999992
+        },
+        {
+          "position_index": 47,
+          "empirical_frequency": 0.0091,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0012875000000000004
+        },
+        {
+          "position_index": 48,
+          "empirical_frequency": 0.0067,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0011124999999999998
+        },
+        {
+          "position_index": 49,
+          "empirical_frequency": 0.0058,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0020125000000000004
+        },
+        {
+          "position_index": 50,
+          "empirical_frequency": 0.0083,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0004875000000000001
+        },
+        {
+          "position_index": 51,
+          "empirical_frequency": 0.0081,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00028749999999999956
+        },
+        {
+          "position_index": 52,
+          "empirical_frequency": 0.0078,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 1.2500000000000358e-05
+        },
+        {
+          "position_index": 53,
+          "empirical_frequency": 0.0086,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007875
+        },
+        {
+          "position_index": 54,
+          "empirical_frequency": 0.0076,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00021250000000000002
+        },
+        {
+          "position_index": 55,
+          "empirical_frequency": 0.0072,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006125000000000002
+        },
+        {
+          "position_index": 56,
+          "empirical_frequency": 0.0062,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0016125000000000002
+        },
+        {
+          "position_index": 57,
+          "empirical_frequency": 0.0077,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00011249999999999975
+        },
+        {
+          "position_index": 58,
+          "empirical_frequency": 0.0079,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 8.750000000000077e-05
+        },
+        {
+          "position_index": 59,
+          "empirical_frequency": 0.0083,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0004875000000000001
+        },
+        {
+          "position_index": 60,
+          "empirical_frequency": 0.0075,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0003125000000000003
+        },
+        {
+          "position_index": 61,
+          "empirical_frequency": 0.0084,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005874999999999995
+        },
+        {
+          "position_index": 62,
+          "empirical_frequency": 0.0086,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007875
+        },
+        {
+          "position_index": 63,
+          "empirical_frequency": 0.0066,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0012125
+        },
+        {
+          "position_index": 64,
+          "empirical_frequency": 0.007,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0008124999999999999
+        },
+        {
+          "position_index": 65,
+          "empirical_frequency": 0.0074,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00041249999999999967
+        },
+        {
+          "position_index": 66,
+          "empirical_frequency": 0.0075,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0003125000000000003
+        },
+        {
+          "position_index": 67,
+          "empirical_frequency": 0.0069,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0009125000000000001
+        },
+        {
+          "position_index": 68,
+          "empirical_frequency": 0.0067,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0011124999999999998
+        },
+        {
+          "position_index": 69,
+          "empirical_frequency": 0.0093,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0014874999999999992
+        },
+        {
+          "position_index": 70,
+          "empirical_frequency": 0.0074,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00041249999999999967
+        },
+        {
+          "position_index": 71,
+          "empirical_frequency": 0.0054,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0024124999999999997
+        },
+        {
+          "position_index": 72,
+          "empirical_frequency": 0.0082,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0003875000000000007
+        },
+        {
+          "position_index": 73,
+          "empirical_frequency": 0.0084,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005874999999999995
+        },
+        {
+          "position_index": 74,
+          "empirical_frequency": 0.0062,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0016125000000000002
+        },
+        {
+          "position_index": 75,
+          "empirical_frequency": 0.0087,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0008874999999999994
+        },
+        {
+          "position_index": 76,
+          "empirical_frequency": 0.0072,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006125000000000002
+        },
+        {
+          "position_index": 77,
+          "empirical_frequency": 0.0083,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0004875000000000001
+        },
+        {
+          "position_index": 78,
+          "empirical_frequency": 0.0083,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0004875000000000001
+        },
+        {
+          "position_index": 79,
+          "empirical_frequency": 0.0084,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005874999999999995
+        },
+        {
+          "position_index": 80,
+          "empirical_frequency": 0.0104,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0025874999999999995
+        },
+        {
+          "position_index": 81,
+          "empirical_frequency": 0.0088,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0009875000000000005
+        },
+        {
+          "position_index": 82,
+          "empirical_frequency": 0.0084,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005874999999999995
+        },
+        {
+          "position_index": 83,
+          "empirical_frequency": 0.0066,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0012125
+        },
+        {
+          "position_index": 84,
+          "empirical_frequency": 0.0086,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007875
+        },
+        {
+          "position_index": 85,
+          "empirical_frequency": 0.0086,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007875
+        },
+        {
+          "position_index": 86,
+          "empirical_frequency": 0.0072,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006125000000000002
+        },
+        {
+          "position_index": 87,
+          "empirical_frequency": 0.0076,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00021250000000000002
+        },
+        {
+          "position_index": 88,
+          "empirical_frequency": 0.0078,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 1.2500000000000358e-05
+        },
+        {
+          "position_index": 89,
+          "empirical_frequency": 0.0083,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0004875000000000001
+        },
+        {
+          "position_index": 90,
+          "empirical_frequency": 0.0069,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0009125000000000001
+        },
+        {
+          "position_index": 91,
+          "empirical_frequency": 0.0081,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00028749999999999956
+        },
+        {
+          "position_index": 92,
+          "empirical_frequency": 0.0077,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00011249999999999975
+        },
+        {
+          "position_index": 93,
+          "empirical_frequency": 0.0065,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0013125000000000003
+        },
+        {
+          "position_index": 94,
+          "empirical_frequency": 0.0062,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0016125000000000002
+        },
+        {
+          "position_index": 95,
+          "empirical_frequency": 0.0075,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0003125000000000003
+        },
+        {
+          "position_index": 96,
+          "empirical_frequency": 0.0081,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00028749999999999956
+        },
+        {
+          "position_index": 97,
+          "empirical_frequency": 0.0076,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00021250000000000002
+        },
+        {
+          "position_index": 98,
+          "empirical_frequency": 0.0071,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007124999999999996
+        },
+        {
+          "position_index": 99,
+          "empirical_frequency": 0.0074,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00041249999999999967
+        },
+        {
+          "position_index": 100,
+          "empirical_frequency": 0.0081,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00028749999999999956
+        },
+        {
+          "position_index": 101,
+          "empirical_frequency": 0.0066,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0012125
+        },
+        {
+          "position_index": 102,
+          "empirical_frequency": 0.0073,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005124999999999999
+        },
+        {
+          "position_index": 103,
+          "empirical_frequency": 0.0084,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005874999999999995
+        },
+        {
+          "position_index": 104,
+          "empirical_frequency": 0.0085,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006875000000000006
+        },
+        {
+          "position_index": 105,
+          "empirical_frequency": 0.008,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00018750000000000017
+        },
+        {
+          "position_index": 106,
+          "empirical_frequency": 0.0082,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0003875000000000007
+        },
+        {
+          "position_index": 107,
+          "empirical_frequency": 0.0085,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006875000000000006
+        },
+        {
+          "position_index": 108,
+          "empirical_frequency": 0.0079,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 8.750000000000077e-05
+        },
+        {
+          "position_index": 109,
+          "empirical_frequency": 0.0072,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006125000000000002
+        },
+        {
+          "position_index": 110,
+          "empirical_frequency": 0.0082,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0003875000000000007
+        },
+        {
+          "position_index": 111,
+          "empirical_frequency": 0.0077,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00011249999999999975
+        },
+        {
+          "position_index": 112,
+          "empirical_frequency": 0.0075,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0003125000000000003
+        },
+        {
+          "position_index": 113,
+          "empirical_frequency": 0.0085,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006875000000000006
+        },
+        {
+          "position_index": 114,
+          "empirical_frequency": 0.0086,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007875
+        },
+        {
+          "position_index": 115,
+          "empirical_frequency": 0.0071,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007124999999999996
+        },
+        {
+          "position_index": 116,
+          "empirical_frequency": 0.0073,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005124999999999999
+        },
+        {
+          "position_index": 117,
+          "empirical_frequency": 0.0089,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0010875
+        },
+        {
+          "position_index": 118,
+          "empirical_frequency": 0.0077,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00011249999999999975
+        },
+        {
+          "position_index": 119,
+          "empirical_frequency": 0.0071,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0007124999999999996
+        },
+        {
+          "position_index": 120,
+          "empirical_frequency": 0.0081,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00028749999999999956
+        },
+        {
+          "position_index": 121,
+          "empirical_frequency": 0.0084,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005874999999999995
+        },
+        {
+          "position_index": 122,
+          "empirical_frequency": 0.0106,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0027875
+        },
+        {
+          "position_index": 123,
+          "empirical_frequency": 0.0072,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0006125000000000002
+        },
+        {
+          "position_index": 124,
+          "empirical_frequency": 0.0087,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0008874999999999994
+        },
+        {
+          "position_index": 125,
+          "empirical_frequency": 0.0084,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0005874999999999995
+        },
+        {
+          "position_index": 126,
+          "empirical_frequency": 0.0087,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0008874999999999994
+        },
+        {
+          "position_index": 127,
+          "empirical_frequency": 0.0094,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.0015875000000000004
+        },
+        {
+          "position_index": 128,
+          "empirical_frequency": 0.0081,
+          "expected_frequency": 0.0078125,
+          "absolute_deviation": 0.00028749999999999956
+        }
+      ]
+    },
+    {
+      "stream_id": "N128_K032",
+      "N": 128,
+      "k": 32,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.25,
+      "max_abs_deviation": 0.010000000000000009,
+      "mean_abs_deviation": 0.0036718750000000007,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.2532,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0031999999999999806
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.2501,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.2451,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004899999999999988
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.2529,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0029000000000000137
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.253,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0030000000000000027
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.2457,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004299999999999998
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.2499,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.2471,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0029000000000000137
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.2424,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.007599999999999996
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.2502,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.2514,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0014000000000000123
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.2449,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005099999999999993
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.2556,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005599999999999994
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.2565,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006500000000000006
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.2472,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.002799999999999997
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.2533,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003300000000000025
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.2461,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003899999999999987
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.2467,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0032999999999999974
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.2499,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.2471,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0029000000000000137
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.2465,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003500000000000003
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.2496,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00040000000000001146
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.2511,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0010999999999999899
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.2556,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005599999999999994
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.254,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0040000000000000036
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.2508,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0008000000000000229
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.2422,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.007800000000000001
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.2566,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006599999999999995
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.2473,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.002700000000000008
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.2551,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005099999999999993
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.2525,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0025000000000000022
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.2401,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.009899999999999992
+        },
+        {
+          "position_index": 33,
+          "empirical_frequency": 0.2436,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006399999999999989
+        },
+        {
+          "position_index": 34,
+          "empirical_frequency": 0.2473,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.002700000000000008
+        },
+        {
+          "position_index": 35,
+          "empirical_frequency": 0.2516,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015999999999999903
+        },
+        {
+          "position_index": 36,
+          "empirical_frequency": 0.2468,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0032000000000000084
+        },
+        {
+          "position_index": 37,
+          "empirical_frequency": 0.2529,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0029000000000000137
+        },
+        {
+          "position_index": 38,
+          "empirical_frequency": 0.2473,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.002700000000000008
+        },
+        {
+          "position_index": 39,
+          "empirical_frequency": 0.2511,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0010999999999999899
+        },
+        {
+          "position_index": 40,
+          "empirical_frequency": 0.247,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0030000000000000027
+        },
+        {
+          "position_index": 41,
+          "empirical_frequency": 0.2426,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00739999999999999
+        },
+        {
+          "position_index": 42,
+          "empirical_frequency": 0.2441,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005899999999999989
+        },
+        {
+          "position_index": 43,
+          "empirical_frequency": 0.251,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0010000000000000009
+        },
+        {
+          "position_index": 44,
+          "empirical_frequency": 0.2499,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 45,
+          "empirical_frequency": 0.2495,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0005000000000000004
+        },
+        {
+          "position_index": 46,
+          "empirical_frequency": 0.2555,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005500000000000005
+        },
+        {
+          "position_index": 47,
+          "empirical_frequency": 0.2403,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.009699999999999986
+        },
+        {
+          "position_index": 48,
+          "empirical_frequency": 0.2454,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004599999999999993
+        },
+        {
+          "position_index": 49,
+          "empirical_frequency": 0.26,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.010000000000000009
+        },
+        {
+          "position_index": 50,
+          "empirical_frequency": 0.2597,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.009699999999999986
+        },
+        {
+          "position_index": 51,
+          "empirical_frequency": 0.2494,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0005999999999999894
+        },
+        {
+          "position_index": 52,
+          "empirical_frequency": 0.2455,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004500000000000004
+        },
+        {
+          "position_index": 53,
+          "empirical_frequency": 0.2523,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0023000000000000242
+        },
+        {
+          "position_index": 54,
+          "empirical_frequency": 0.244,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006000000000000005
+        },
+        {
+          "position_index": 55,
+          "empirical_frequency": 0.2499,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 56,
+          "empirical_frequency": 0.251,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0010000000000000009
+        },
+        {
+          "position_index": 57,
+          "empirical_frequency": 0.2435,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006500000000000006
+        },
+        {
+          "position_index": 58,
+          "empirical_frequency": 0.2541,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0040999999999999925
+        },
+        {
+          "position_index": 59,
+          "empirical_frequency": 0.2516,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015999999999999903
+        },
+        {
+          "position_index": 60,
+          "empirical_frequency": 0.2531,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0030999999999999917
+        },
+        {
+          "position_index": 61,
+          "empirical_frequency": 0.2566,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006599999999999995
+        },
+        {
+          "position_index": 62,
+          "empirical_frequency": 0.242,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.008000000000000007
+        },
+        {
+          "position_index": 63,
+          "empirical_frequency": 0.2502,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 64,
+          "empirical_frequency": 0.255,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0050000000000000044
+        },
+        {
+          "position_index": 65,
+          "empirical_frequency": 0.2457,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004299999999999998
+        },
+        {
+          "position_index": 66,
+          "empirical_frequency": 0.2468,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0032000000000000084
+        },
+        {
+          "position_index": 67,
+          "empirical_frequency": 0.2455,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004500000000000004
+        },
+        {
+          "position_index": 68,
+          "empirical_frequency": 0.248,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 69,
+          "empirical_frequency": 0.246,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0040000000000000036
+        },
+        {
+          "position_index": 70,
+          "empirical_frequency": 0.2485,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015000000000000013
+        },
+        {
+          "position_index": 71,
+          "empirical_frequency": 0.2476,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0024000000000000132
+        },
+        {
+          "position_index": 72,
+          "empirical_frequency": 0.246,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0040000000000000036
+        },
+        {
+          "position_index": 73,
+          "empirical_frequency": 0.259,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.009000000000000008
+        },
+        {
+          "position_index": 74,
+          "empirical_frequency": 0.26,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.010000000000000009
+        },
+        {
+          "position_index": 75,
+          "empirical_frequency": 0.245,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0050000000000000044
+        },
+        {
+          "position_index": 76,
+          "empirical_frequency": 0.2456,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004399999999999987
+        },
+        {
+          "position_index": 77,
+          "empirical_frequency": 0.2521,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0020999999999999908
+        },
+        {
+          "position_index": 78,
+          "empirical_frequency": 0.252,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 79,
+          "empirical_frequency": 0.2518,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0018000000000000238
+        },
+        {
+          "position_index": 80,
+          "empirical_frequency": 0.2502,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 81,
+          "empirical_frequency": 0.2485,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015000000000000013
+        },
+        {
+          "position_index": 82,
+          "empirical_frequency": 0.2529,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0029000000000000137
+        },
+        {
+          "position_index": 83,
+          "empirical_frequency": 0.2548,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0048000000000000265
+        },
+        {
+          "position_index": 84,
+          "empirical_frequency": 0.2533,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003300000000000025
+        },
+        {
+          "position_index": 85,
+          "empirical_frequency": 0.2515,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0015000000000000013
+        },
+        {
+          "position_index": 86,
+          "empirical_frequency": 0.2585,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.008500000000000008
+        },
+        {
+          "position_index": 87,
+          "empirical_frequency": 0.2497,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0002999999999999947
+        },
+        {
+          "position_index": 88,
+          "empirical_frequency": 0.26,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.010000000000000009
+        },
+        {
+          "position_index": 89,
+          "empirical_frequency": 0.2452,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004799999999999999
+        },
+        {
+          "position_index": 90,
+          "empirical_frequency": 0.2588,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.008799999999999975
+        },
+        {
+          "position_index": 91,
+          "empirical_frequency": 0.2472,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.002799999999999997
+        },
+        {
+          "position_index": 92,
+          "empirical_frequency": 0.2494,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0005999999999999894
+        },
+        {
+          "position_index": 93,
+          "empirical_frequency": 0.2477,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0022999999999999965
+        },
+        {
+          "position_index": 94,
+          "empirical_frequency": 0.2455,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004500000000000004
+        },
+        {
+          "position_index": 95,
+          "empirical_frequency": 0.2443,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005700000000000011
+        },
+        {
+          "position_index": 96,
+          "empirical_frequency": 0.2441,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005899999999999989
+        },
+        {
+          "position_index": 97,
+          "empirical_frequency": 0.2461,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003899999999999987
+        },
+        {
+          "position_index": 98,
+          "empirical_frequency": 0.2575,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.007500000000000007
+        },
+        {
+          "position_index": 99,
+          "empirical_frequency": 0.2519,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0019000000000000128
+        },
+        {
+          "position_index": 100,
+          "empirical_frequency": 0.2498,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00020000000000000573
+        },
+        {
+          "position_index": 101,
+          "empirical_frequency": 0.2572,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.007199999999999984
+        },
+        {
+          "position_index": 102,
+          "empirical_frequency": 0.2509,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0009000000000000119
+        },
+        {
+          "position_index": 103,
+          "empirical_frequency": 0.2508,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0008000000000000229
+        },
+        {
+          "position_index": 104,
+          "empirical_frequency": 0.2531,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0030999999999999917
+        },
+        {
+          "position_index": 105,
+          "empirical_frequency": 0.2491,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0009000000000000119
+        },
+        {
+          "position_index": 106,
+          "empirical_frequency": 0.2533,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003300000000000025
+        },
+        {
+          "position_index": 107,
+          "empirical_frequency": 0.2547,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004699999999999982
+        },
+        {
+          "position_index": 108,
+          "empirical_frequency": 0.2433,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0067000000000000115
+        },
+        {
+          "position_index": 109,
+          "empirical_frequency": 0.2478,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0022000000000000075
+        },
+        {
+          "position_index": 110,
+          "empirical_frequency": 0.2477,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0022999999999999965
+        },
+        {
+          "position_index": 111,
+          "empirical_frequency": 0.2504,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00040000000000001146
+        },
+        {
+          "position_index": 112,
+          "empirical_frequency": 0.2534,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.003400000000000014
+        },
+        {
+          "position_index": 113,
+          "empirical_frequency": 0.2523,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0023000000000000242
+        },
+        {
+          "position_index": 114,
+          "empirical_frequency": 0.2567,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.006699999999999984
+        },
+        {
+          "position_index": 115,
+          "empirical_frequency": 0.2538,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0038000000000000256
+        },
+        {
+          "position_index": 116,
+          "empirical_frequency": 0.2454,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004599999999999993
+        },
+        {
+          "position_index": 117,
+          "empirical_frequency": 0.252,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 118,
+          "empirical_frequency": 0.2468,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0032000000000000084
+        },
+        {
+          "position_index": 119,
+          "empirical_frequency": 0.2479,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0020999999999999908
+        },
+        {
+          "position_index": 120,
+          "empirical_frequency": 0.2467,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0032999999999999974
+        },
+        {
+          "position_index": 121,
+          "empirical_frequency": 0.2501,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 122,
+          "empirical_frequency": 0.248,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 123,
+          "empirical_frequency": 0.2502,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 124,
+          "empirical_frequency": 0.2488,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0012000000000000066
+        },
+        {
+          "position_index": 125,
+          "empirical_frequency": 0.255,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0050000000000000044
+        },
+        {
+          "position_index": 126,
+          "empirical_frequency": 0.2539,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.0039000000000000146
+        },
+        {
+          "position_index": 127,
+          "empirical_frequency": 0.2553,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.005300000000000027
+        },
+        {
+          "position_index": 128,
+          "empirical_frequency": 0.2454,
+          "expected_frequency": 0.25,
+          "absolute_deviation": 0.004599999999999993
+        }
+      ]
+    },
+    {
+      "stream_id": "N128_K064",
+      "N": 128,
+      "k": 64,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.5,
+      "max_abs_deviation": 0.015100000000000002,
+      "mean_abs_deviation": 0.003621875,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.4982,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0018000000000000238
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.5031,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0030999999999999917
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.5002,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.5039,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0039000000000000146
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.4966,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.003400000000000014
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.5,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.4976,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0024000000000000132
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.496,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0040000000000000036
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.4983,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016999999999999793
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.499,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0010000000000000009
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.5028,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0028000000000000247
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.4917,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.008299999999999974
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.4968,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0031999999999999806
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.4982,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0018000000000000238
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.5001,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.5053,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005299999999999971
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.5012,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0011999999999999789
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.5011,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0010999999999999899
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.5025,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0024999999999999467
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.498,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.502,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.4945,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005500000000000005
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.4965,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.003500000000000003
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.5051,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005099999999999993
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.4975,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0025000000000000022
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.4956,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.004400000000000015
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.4975,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0025000000000000022
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.493,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007000000000000006
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.5005,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0004999999999999449
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.5019,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0019000000000000128
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.4921,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007900000000000018
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.5033,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0032999999999999696
+        },
+        {
+          "position_index": 33,
+          "empirical_frequency": 0.5042,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0041999999999999815
+        },
+        {
+          "position_index": 34,
+          "empirical_frequency": 0.5027,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0027000000000000357
+        },
+        {
+          "position_index": 35,
+          "empirical_frequency": 0.5031,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0030999999999999917
+        },
+        {
+          "position_index": 36,
+          "empirical_frequency": 0.4994,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0005999999999999894
+        },
+        {
+          "position_index": 37,
+          "empirical_frequency": 0.4998,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 38,
+          "empirical_frequency": 0.4912,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.008799999999999975
+        },
+        {
+          "position_index": 39,
+          "empirical_frequency": 0.5085,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.008499999999999952
+        },
+        {
+          "position_index": 40,
+          "empirical_frequency": 0.4975,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0025000000000000022
+        },
+        {
+          "position_index": 41,
+          "empirical_frequency": 0.5047,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0047000000000000375
+        },
+        {
+          "position_index": 42,
+          "empirical_frequency": 0.51,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.010000000000000009
+        },
+        {
+          "position_index": 43,
+          "empirical_frequency": 0.4999,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 9.999999999998899e-05
+        },
+        {
+          "position_index": 44,
+          "empirical_frequency": 0.4984,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0015999999999999903
+        },
+        {
+          "position_index": 45,
+          "empirical_frequency": 0.5017,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0017000000000000348
+        },
+        {
+          "position_index": 46,
+          "empirical_frequency": 0.5076,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007600000000000051
+        },
+        {
+          "position_index": 47,
+          "empirical_frequency": 0.4988,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0011999999999999789
+        },
+        {
+          "position_index": 48,
+          "empirical_frequency": 0.4959,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0040999999999999925
+        },
+        {
+          "position_index": 49,
+          "empirical_frequency": 0.4954,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.004599999999999993
+        },
+        {
+          "position_index": 50,
+          "empirical_frequency": 0.4974,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.002599999999999991
+        },
+        {
+          "position_index": 51,
+          "empirical_frequency": 0.5008,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0008000000000000229
+        },
+        {
+          "position_index": 52,
+          "empirical_frequency": 0.4983,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016999999999999793
+        },
+        {
+          "position_index": 53,
+          "empirical_frequency": 0.5151,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.015100000000000002
+        },
+        {
+          "position_index": 54,
+          "empirical_frequency": 0.503,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0030000000000000027
+        },
+        {
+          "position_index": 55,
+          "empirical_frequency": 0.4935,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006500000000000006
+        },
+        {
+          "position_index": 56,
+          "empirical_frequency": 0.5059,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005900000000000016
+        },
+        {
+          "position_index": 57,
+          "empirical_frequency": 0.4927,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007299999999999973
+        },
+        {
+          "position_index": 58,
+          "empirical_frequency": 0.5018,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0018000000000000238
+        },
+        {
+          "position_index": 59,
+          "empirical_frequency": 0.4995,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0005000000000000004
+        },
+        {
+          "position_index": 60,
+          "empirical_frequency": 0.5077,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00770000000000004
+        },
+        {
+          "position_index": 61,
+          "empirical_frequency": 0.5057,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005700000000000038
+        },
+        {
+          "position_index": 62,
+          "empirical_frequency": 0.4991,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0009000000000000119
+        },
+        {
+          "position_index": 63,
+          "empirical_frequency": 0.5087,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.008700000000000041
+        },
+        {
+          "position_index": 64,
+          "empirical_frequency": 0.498,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 65,
+          "empirical_frequency": 0.497,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0030000000000000027
+        },
+        {
+          "position_index": 66,
+          "empirical_frequency": 0.4996,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00040000000000001146
+        },
+        {
+          "position_index": 67,
+          "empirical_frequency": 0.5053,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005299999999999971
+        },
+        {
+          "position_index": 68,
+          "empirical_frequency": 0.5002,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00019999999999997797
+        },
+        {
+          "position_index": 69,
+          "empirical_frequency": 0.5058,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005800000000000027
+        },
+        {
+          "position_index": 70,
+          "empirical_frequency": 0.499,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0010000000000000009
+        },
+        {
+          "position_index": 71,
+          "empirical_frequency": 0.498,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 72,
+          "empirical_frequency": 0.498,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 73,
+          "empirical_frequency": 0.4962,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0038000000000000256
+        },
+        {
+          "position_index": 74,
+          "empirical_frequency": 0.4945,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005500000000000005
+        },
+        {
+          "position_index": 75,
+          "empirical_frequency": 0.4957,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.004300000000000026
+        },
+        {
+          "position_index": 76,
+          "empirical_frequency": 0.5077,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00770000000000004
+        },
+        {
+          "position_index": 77,
+          "empirical_frequency": 0.4964,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.003599999999999992
+        },
+        {
+          "position_index": 78,
+          "empirical_frequency": 0.4953,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.004699999999999982
+        },
+        {
+          "position_index": 79,
+          "empirical_frequency": 0.4926,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007400000000000018
+        },
+        {
+          "position_index": 80,
+          "empirical_frequency": 0.5057,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005700000000000038
+        },
+        {
+          "position_index": 81,
+          "empirical_frequency": 0.4995,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0005000000000000004
+        },
+        {
+          "position_index": 82,
+          "empirical_frequency": 0.4987,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0013000000000000234
+        },
+        {
+          "position_index": 83,
+          "empirical_frequency": 0.4993,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0006999999999999784
+        },
+        {
+          "position_index": 84,
+          "empirical_frequency": 0.4983,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016999999999999793
+        },
+        {
+          "position_index": 85,
+          "empirical_frequency": 0.4948,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005199999999999982
+        },
+        {
+          "position_index": 86,
+          "empirical_frequency": 0.5068,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006800000000000028
+        },
+        {
+          "position_index": 87,
+          "empirical_frequency": 0.4897,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.010299999999999976
+        },
+        {
+          "position_index": 88,
+          "empirical_frequency": 0.5032,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0031999999999999806
+        },
+        {
+          "position_index": 89,
+          "empirical_frequency": 0.5063,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006299999999999972
+        },
+        {
+          "position_index": 90,
+          "empirical_frequency": 0.5016,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016000000000000458
+        },
+        {
+          "position_index": 91,
+          "empirical_frequency": 0.4983,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016999999999999793
+        },
+        {
+          "position_index": 92,
+          "empirical_frequency": 0.4988,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0011999999999999789
+        },
+        {
+          "position_index": 93,
+          "empirical_frequency": 0.5017,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0017000000000000348
+        },
+        {
+          "position_index": 94,
+          "empirical_frequency": 0.5016,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016000000000000458
+        },
+        {
+          "position_index": 95,
+          "empirical_frequency": 0.502,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0020000000000000018
+        },
+        {
+          "position_index": 96,
+          "empirical_frequency": 0.5044,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0043999999999999595
+        },
+        {
+          "position_index": 97,
+          "empirical_frequency": 0.4932,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006799999999999973
+        },
+        {
+          "position_index": 98,
+          "empirical_frequency": 0.4996,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00040000000000001146
+        },
+        {
+          "position_index": 99,
+          "empirical_frequency": 0.5122,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.012199999999999989
+        },
+        {
+          "position_index": 100,
+          "empirical_frequency": 0.5011,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0010999999999999899
+        },
+        {
+          "position_index": 101,
+          "empirical_frequency": 0.4963,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.003699999999999981
+        },
+        {
+          "position_index": 102,
+          "empirical_frequency": 0.4985,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0015000000000000013
+        },
+        {
+          "position_index": 103,
+          "empirical_frequency": 0.5059,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.005900000000000016
+        },
+        {
+          "position_index": 104,
+          "empirical_frequency": 0.5039,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0039000000000000146
+        },
+        {
+          "position_index": 105,
+          "empirical_frequency": 0.5028,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0028000000000000247
+        },
+        {
+          "position_index": 106,
+          "empirical_frequency": 0.4982,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0018000000000000238
+        },
+        {
+          "position_index": 107,
+          "empirical_frequency": 0.5003,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.00029999999999996696
+        },
+        {
+          "position_index": 108,
+          "empirical_frequency": 0.4983,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0016999999999999793
+        },
+        {
+          "position_index": 109,
+          "empirical_frequency": 0.505,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0050000000000000044
+        },
+        {
+          "position_index": 110,
+          "empirical_frequency": 0.4935,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.006500000000000006
+        },
+        {
+          "position_index": 111,
+          "empirical_frequency": 0.4992,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0008000000000000229
+        },
+        {
+          "position_index": 112,
+          "empirical_frequency": 0.4994,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0005999999999999894
+        },
+        {
+          "position_index": 113,
+          "empirical_frequency": 0.5015,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0014999999999999458
+        },
+        {
+          "position_index": 114,
+          "empirical_frequency": 0.4977,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0023000000000000242
+        },
+        {
+          "position_index": 115,
+          "empirical_frequency": 0.5018,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0018000000000000238
+        },
+        {
+          "position_index": 116,
+          "empirical_frequency": 0.4923,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007699999999999985
+        },
+        {
+          "position_index": 117,
+          "empirical_frequency": 0.4963,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.003699999999999981
+        },
+        {
+          "position_index": 118,
+          "empirical_frequency": 0.499,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0010000000000000009
+        },
+        {
+          "position_index": 119,
+          "empirical_frequency": 0.4982,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0018000000000000238
+        },
+        {
+          "position_index": 120,
+          "empirical_frequency": 0.5072,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.007199999999999984
+        },
+        {
+          "position_index": 121,
+          "empirical_frequency": 0.5,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0
+        },
+        {
+          "position_index": 122,
+          "empirical_frequency": 0.4893,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.010699999999999987
+        },
+        {
+          "position_index": 123,
+          "empirical_frequency": 0.5136,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.013599999999999945
+        },
+        {
+          "position_index": 124,
+          "empirical_frequency": 0.496,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0040000000000000036
+        },
+        {
+          "position_index": 125,
+          "empirical_frequency": 0.499,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0010000000000000009
+        },
+        {
+          "position_index": 126,
+          "empirical_frequency": 0.496,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0040000000000000036
+        },
+        {
+          "position_index": 127,
+          "empirical_frequency": 0.4994,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0005999999999999894
+        },
+        {
+          "position_index": 128,
+          "empirical_frequency": 0.4972,
+          "expected_frequency": 0.5,
+          "absolute_deviation": 0.0028000000000000247
+        }
+      ]
+    },
+    {
+      "stream_id": "N128_K127",
+      "N": 128,
+      "k": 127,
+      "trials": 10000,
+      "expected_inclusion_prob": 0.9921875,
+      "max_abs_deviation": 0.003087500000000021,
+      "mean_abs_deviation": 0.0007279296874999957,
+      "per_position": [
+        {
+          "position_index": 1,
+          "empirical_frequency": 0.9931,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0009124999999999828
+        },
+        {
+          "position_index": 2,
+          "empirical_frequency": 0.9918,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0003874999999999851
+        },
+        {
+          "position_index": 3,
+          "empirical_frequency": 0.9932,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0010124999999999718
+        },
+        {
+          "position_index": 4,
+          "empirical_frequency": 0.9922,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 1.2499999999970868e-05
+        },
+        {
+          "position_index": 5,
+          "empirical_frequency": 0.9933,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0011124999999999607
+        },
+        {
+          "position_index": 6,
+          "empirical_frequency": 0.9916,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000587499999999963
+        },
+        {
+          "position_index": 7,
+          "empirical_frequency": 0.9908,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001387499999999986
+        },
+        {
+          "position_index": 8,
+          "empirical_frequency": 0.9913,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000887500000000041
+        },
+        {
+          "position_index": 9,
+          "empirical_frequency": 0.9925,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00031250000000004885
+        },
+        {
+          "position_index": 10,
+          "empirical_frequency": 0.9904,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001787500000000053
+        },
+        {
+          "position_index": 11,
+          "empirical_frequency": 0.9897,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.002487499999999976
+        },
+        {
+          "position_index": 12,
+          "empirical_frequency": 0.9918,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0003874999999999851
+        },
+        {
+          "position_index": 13,
+          "empirical_frequency": 0.9917,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00048749999999997407
+        },
+        {
+          "position_index": 14,
+          "empirical_frequency": 0.9927,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0005125000000000268
+        },
+        {
+          "position_index": 15,
+          "empirical_frequency": 0.9931,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0009124999999999828
+        },
+        {
+          "position_index": 16,
+          "empirical_frequency": 0.9922,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 1.2499999999970868e-05
+        },
+        {
+          "position_index": 17,
+          "empirical_frequency": 0.991,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001187500000000008
+        },
+        {
+          "position_index": 18,
+          "empirical_frequency": 0.9921,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 8.750000000001812e-05
+        },
+        {
+          "position_index": 19,
+          "empirical_frequency": 0.9903,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001887500000000042
+        },
+        {
+          "position_index": 20,
+          "empirical_frequency": 0.9928,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0006125000000000158
+        },
+        {
+          "position_index": 21,
+          "empirical_frequency": 0.992,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0001875000000000071
+        },
+        {
+          "position_index": 22,
+          "empirical_frequency": 0.9927,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0005125000000000268
+        },
+        {
+          "position_index": 23,
+          "empirical_frequency": 0.994,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0018124999999999947
+        },
+        {
+          "position_index": 24,
+          "empirical_frequency": 0.9909,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001287499999999997
+        },
+        {
+          "position_index": 25,
+          "empirical_frequency": 0.9923,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00011249999999995985
+        },
+        {
+          "position_index": 26,
+          "empirical_frequency": 0.9939,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0017125000000000057
+        },
+        {
+          "position_index": 27,
+          "empirical_frequency": 0.993,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0008124999999999938
+        },
+        {
+          "position_index": 28,
+          "empirical_frequency": 0.9935,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0013125000000000497
+        },
+        {
+          "position_index": 29,
+          "empirical_frequency": 0.9937,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0015125000000000277
+        },
+        {
+          "position_index": 30,
+          "empirical_frequency": 0.9919,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0002874999999999961
+        },
+        {
+          "position_index": 31,
+          "empirical_frequency": 0.993,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0008124999999999938
+        },
+        {
+          "position_index": 32,
+          "empirical_frequency": 0.9918,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0003874999999999851
+        },
+        {
+          "position_index": 33,
+          "empirical_frequency": 0.9934,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0012124999999999497
+        },
+        {
+          "position_index": 34,
+          "empirical_frequency": 0.991,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001187500000000008
+        },
+        {
+          "position_index": 35,
+          "empirical_frequency": 0.9929,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0007125000000000048
+        },
+        {
+          "position_index": 36,
+          "empirical_frequency": 0.9921,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 8.750000000001812e-05
+        },
+        {
+          "position_index": 37,
+          "empirical_frequency": 0.9936,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0014125000000000387
+        },
+        {
+          "position_index": 38,
+          "empirical_frequency": 0.9919,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0002874999999999961
+        },
+        {
+          "position_index": 39,
+          "empirical_frequency": 0.9922,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 1.2499999999970868e-05
+        },
+        {
+          "position_index": 40,
+          "empirical_frequency": 0.9926,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00041250000000003784
+        },
+        {
+          "position_index": 41,
+          "empirical_frequency": 0.9922,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 1.2499999999970868e-05
+        },
+        {
+          "position_index": 42,
+          "empirical_frequency": 0.9928,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0006125000000000158
+        },
+        {
+          "position_index": 43,
+          "empirical_frequency": 0.9908,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001387499999999986
+        },
+        {
+          "position_index": 44,
+          "empirical_frequency": 0.9922,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 1.2499999999970868e-05
+        },
+        {
+          "position_index": 45,
+          "empirical_frequency": 0.9911,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001087500000000019
+        },
+        {
+          "position_index": 46,
+          "empirical_frequency": 0.9915,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000687499999999952
+        },
+        {
+          "position_index": 47,
+          "empirical_frequency": 0.9908,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001387499999999986
+        },
+        {
+          "position_index": 48,
+          "empirical_frequency": 0.9919,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0002874999999999961
+        },
+        {
+          "position_index": 49,
+          "empirical_frequency": 0.9933,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0011124999999999607
+        },
+        {
+          "position_index": 50,
+          "empirical_frequency": 0.9924,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00021249999999994884
+        },
+        {
+          "position_index": 51,
+          "empirical_frequency": 0.9924,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00021249999999994884
+        },
+        {
+          "position_index": 52,
+          "empirical_frequency": 0.9924,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00021249999999994884
+        },
+        {
+          "position_index": 53,
+          "empirical_frequency": 0.9925,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00031250000000004885
+        },
+        {
+          "position_index": 54,
+          "empirical_frequency": 0.9929,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0007125000000000048
+        },
+        {
+          "position_index": 55,
+          "empirical_frequency": 0.9891,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.003087500000000021
+        },
+        {
+          "position_index": 56,
+          "empirical_frequency": 0.9934,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0012124999999999497
+        },
+        {
+          "position_index": 57,
+          "empirical_frequency": 0.9923,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00011249999999995985
+        },
+        {
+          "position_index": 58,
+          "empirical_frequency": 0.9913,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000887500000000041
+        },
+        {
+          "position_index": 59,
+          "empirical_frequency": 0.993,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0008124999999999938
+        },
+        {
+          "position_index": 60,
+          "empirical_frequency": 0.992,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0001875000000000071
+        },
+        {
+          "position_index": 61,
+          "empirical_frequency": 0.991,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001187500000000008
+        },
+        {
+          "position_index": 62,
+          "empirical_frequency": 0.9936,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0014125000000000387
+        },
+        {
+          "position_index": 63,
+          "empirical_frequency": 0.9915,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000687499999999952
+        },
+        {
+          "position_index": 64,
+          "empirical_frequency": 0.992,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0001875000000000071
+        },
+        {
+          "position_index": 65,
+          "empirical_frequency": 0.9926,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00041250000000003784
+        },
+        {
+          "position_index": 66,
+          "empirical_frequency": 0.9917,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00048749999999997407
+        },
+        {
+          "position_index": 67,
+          "empirical_frequency": 0.9911,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001087500000000019
+        },
+        {
+          "position_index": 68,
+          "empirical_frequency": 0.9925,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00031250000000004885
+        },
+        {
+          "position_index": 69,
+          "empirical_frequency": 0.9923,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00011249999999995985
+        },
+        {
+          "position_index": 70,
+          "empirical_frequency": 0.9932,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0010124999999999718
+        },
+        {
+          "position_index": 71,
+          "empirical_frequency": 0.9904,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001787500000000053
+        },
+        {
+          "position_index": 72,
+          "empirical_frequency": 0.992,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0001875000000000071
+        },
+        {
+          "position_index": 73,
+          "empirical_frequency": 0.9923,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00011249999999995985
+        },
+        {
+          "position_index": 74,
+          "empirical_frequency": 0.993,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0008124999999999938
+        },
+        {
+          "position_index": 75,
+          "empirical_frequency": 0.9925,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00031250000000004885
+        },
+        {
+          "position_index": 76,
+          "empirical_frequency": 0.9914,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000787500000000052
+        },
+        {
+          "position_index": 77,
+          "empirical_frequency": 0.9932,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0010124999999999718
+        },
+        {
+          "position_index": 78,
+          "empirical_frequency": 0.9916,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000587499999999963
+        },
+        {
+          "position_index": 79,
+          "empirical_frequency": 0.9909,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001287499999999997
+        },
+        {
+          "position_index": 80,
+          "empirical_frequency": 0.9914,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000787500000000052
+        },
+        {
+          "position_index": 81,
+          "empirical_frequency": 0.992,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0001875000000000071
+        },
+        {
+          "position_index": 82,
+          "empirical_frequency": 0.9925,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00031250000000004885
+        },
+        {
+          "position_index": 83,
+          "empirical_frequency": 0.9924,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00021249999999994884
+        },
+        {
+          "position_index": 84,
+          "empirical_frequency": 0.9923,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00011249999999995985
+        },
+        {
+          "position_index": 85,
+          "empirical_frequency": 0.9922,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 1.2499999999970868e-05
+        },
+        {
+          "position_index": 86,
+          "empirical_frequency": 0.991,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001187500000000008
+        },
+        {
+          "position_index": 87,
+          "empirical_frequency": 0.9905,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001687499999999953
+        },
+        {
+          "position_index": 88,
+          "empirical_frequency": 0.9928,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0006125000000000158
+        },
+        {
+          "position_index": 89,
+          "empirical_frequency": 0.9934,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0012124999999999497
+        },
+        {
+          "position_index": 90,
+          "empirical_frequency": 0.9923,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00011249999999995985
+        },
+        {
+          "position_index": 91,
+          "empirical_frequency": 0.9922,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 1.2499999999970868e-05
+        },
+        {
+          "position_index": 92,
+          "empirical_frequency": 0.993,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0008124999999999938
+        },
+        {
+          "position_index": 93,
+          "empirical_frequency": 0.9923,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00011249999999995985
+        },
+        {
+          "position_index": 94,
+          "empirical_frequency": 0.9922,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 1.2499999999970868e-05
+        },
+        {
+          "position_index": 95,
+          "empirical_frequency": 0.9912,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00098750000000003
+        },
+        {
+          "position_index": 96,
+          "empirical_frequency": 0.9921,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 8.750000000001812e-05
+        },
+        {
+          "position_index": 97,
+          "empirical_frequency": 0.9912,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00098750000000003
+        },
+        {
+          "position_index": 98,
+          "empirical_frequency": 0.9932,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0010124999999999718
+        },
+        {
+          "position_index": 99,
+          "empirical_frequency": 0.9937,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0015125000000000277
+        },
+        {
+          "position_index": 100,
+          "empirical_frequency": 0.9936,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0014125000000000387
+        },
+        {
+          "position_index": 101,
+          "empirical_frequency": 0.9911,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.001087500000000019
+        },
+        {
+          "position_index": 102,
+          "empirical_frequency": 0.9912,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00098750000000003
+        },
+        {
+          "position_index": 103,
+          "empirical_frequency": 0.9933,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0011124999999999607
+        },
+        {
+          "position_index": 104,
+          "empirical_frequency": 0.9938,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0016125000000000167
+        },
+        {
+          "position_index": 105,
+          "empirical_frequency": 0.9929,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0007125000000000048
+        },
+        {
+          "position_index": 106,
+          "empirical_frequency": 0.9921,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 8.750000000001812e-05
+        },
+        {
+          "position_index": 107,
+          "empirical_frequency": 0.9943,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0021124999999999616
+        },
+        {
+          "position_index": 108,
+          "empirical_frequency": 0.992,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0001875000000000071
+        },
+        {
+          "position_index": 109,
+          "empirical_frequency": 0.9931,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0009124999999999828
+        },
+        {
+          "position_index": 110,
+          "empirical_frequency": 0.9917,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00048749999999997407
+        },
+        {
+          "position_index": 111,
+          "empirical_frequency": 0.9923,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00011249999999995985
+        },
+        {
+          "position_index": 112,
+          "empirical_frequency": 0.9923,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00011249999999995985
+        },
+        {
+          "position_index": 113,
+          "empirical_frequency": 0.9912,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00098750000000003
+        },
+        {
+          "position_index": 114,
+          "empirical_frequency": 0.9934,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0012124999999999497
+        },
+        {
+          "position_index": 115,
+          "empirical_frequency": 0.9924,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00021249999999994884
+        },
+        {
+          "position_index": 116,
+          "empirical_frequency": 0.9912,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00098750000000003
+        },
+        {
+          "position_index": 117,
+          "empirical_frequency": 0.9914,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000787500000000052
+        },
+        {
+          "position_index": 118,
+          "empirical_frequency": 0.992,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0001875000000000071
+        },
+        {
+          "position_index": 119,
+          "empirical_frequency": 0.9918,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0003874999999999851
+        },
+        {
+          "position_index": 120,
+          "empirical_frequency": 0.9915,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000687499999999952
+        },
+        {
+          "position_index": 121,
+          "empirical_frequency": 0.9922,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 1.2499999999970868e-05
+        },
+        {
+          "position_index": 122,
+          "empirical_frequency": 0.9932,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0010124999999999718
+        },
+        {
+          "position_index": 123,
+          "empirical_frequency": 0.9921,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 8.750000000001812e-05
+        },
+        {
+          "position_index": 124,
+          "empirical_frequency": 0.9928,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.0006125000000000158
+        },
+        {
+          "position_index": 125,
+          "empirical_frequency": 0.9924,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00021249999999994884
+        },
+        {
+          "position_index": 126,
+          "empirical_frequency": 0.9916,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000587499999999963
+        },
+        {
+          "position_index": 127,
+          "empirical_frequency": 0.9916,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.000587499999999963
+        },
+        {
+          "position_index": 128,
+          "empirical_frequency": 0.9925,
+          "expected_frequency": 0.9921875,
+          "absolute_deviation": 0.00031250000000004885
+        }
+      ]
+    }
+  ],
+  "settings_grid": [
+    {
+      "N": 32,
+      "k": 1
+    },
+    {
+      "N": 32,
+      "k": 8
+    },
+    {
+      "N": 32,
+      "k": 16
+    },
+    {
+      "N": 32,
+      "k": 31
+    },
+    {
+      "N": 64,
+      "k": 1
+    },
+    {
+      "N": 64,
+      "k": 16
+    },
+    {
+      "N": 64,
+      "k": 32
+    },
+    {
+      "N": 64,
+      "k": 63
+    },
+    {
+      "N": 128,
+      "k": 1
+    },
+    {
+      "N": 128,
+      "k": 32
+    },
+    {
+      "N": 128,
+      "k": 64
+    },
+    {
+      "N": 128,
+      "k": 127
+    }
+  ],
+  "benchmark_path": "/ai-inventor/aii_data/runs/run_pv3kwdDbI8Lf/3_invention_loop/iter_1/gen_art/gen_art_dataset_1/results/reservoir_benchmark.json",
+  "benchmark_trials_per_setting": 50
+}

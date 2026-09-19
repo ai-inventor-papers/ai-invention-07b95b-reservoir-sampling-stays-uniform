@@ -1,0 +1,32 @@
+[
+  {
+    "stream_id": "N032_K001",
+    "position_index": 1,
+    "item_id": "item_00001",
+    "N": 32,
+    "k": 1,
+    "seed": 20260918,
+    "trial_id": 0,
+    "expected_inclusion_prob": 0.03125
+  },
+  {
+    "stream_id": "N032_K001",
+    "position_index": 2,
+    "item_id": "item_00002",
+    "N": 32,
+    "k": 1,
+    "seed": 20260918,
+    "trial_id": 0,
+    "expected_inclusion_prob": 0.03125
+  },
+  {
+    "stream_id": "N032_K001",
+    "position_index": 3,
+    "item_id": "item_00003",
+    "N": 32,
+    "k": 1,
+    "seed": 20260918,
+    "trial_id": 0,
+    "expected_inclusion_prob": 0.03125
+  }
+]

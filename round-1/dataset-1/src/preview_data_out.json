@@ -1,0 +1,48 @@
+{
+  "datasets": [
+    {
+      "dataset": "reservoir_sampling_benchmark",
+      "examples": [
+        {
+          "input": "{\"N\": 16, \"expected_inclusion_prob\": 0.0625, \"item_id\": \"item_0\", \"k\": 1, \"position_index\": 0, \"seed\": 0, \"stream_id\": \"stream_N16_k1\", \"trial_id\": 0}",
+          "output": "0.0625",
+          "metadata_row_index": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_classes": 0,
+          "metadata_feature_names": [
+            "stream_id",
+            "position_index",
+            "item_id"
+          ],
+          "metadata_dataset_name": "reservoir_sampling_benchmark"
+        },
+        {
+          "input": "{\"N\": 16, \"expected_inclusion_prob\": 0.0625, \"item_id\": \"item_1\", \"k\": 1, \"position_index\": 1, \"seed\": 0, \"stream_id\": \"stream_N16_k1\", \"trial_id\": 0}",
+          "output": "0.0625",
+          "metadata_row_index": 1,
+          "metadata_task_type": "regression",
+          "metadata_n_classes": 0,
+          "metadata_feature_names": [
+            "stream_id",
+            "position_index",
+            "item_id"
+          ],
+          "metadata_dataset_name": "reservoir_sampling_benchmark"
+        },
+        {
+          "input": "{\"N\": 16, \"expected_inclusion_prob\": 0.0625, \"item_id\": \"item_2\", \"k\": 1, \"position_index\": 2, \"seed\": 0, \"stream_id\": \"stream_N16_k1\", \"trial_id\": 0}",
+          "output": "0.0625",
+          "metadata_row_index": 2,
+          "metadata_task_type": "regression",
+          "metadata_n_classes": 0,
+          "metadata_feature_names": [
+            "stream_id",
+            "position_index",
+            "item_id"
+          ],
+          "metadata_dataset_name": "reservoir_sampling_benchmark"
+        }
+      ]
+    }
+  ]
+}
